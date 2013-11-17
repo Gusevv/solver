@@ -34,7 +34,6 @@ group :doc do
   gem 'sdoc', require: false
 end
 
-gem 'bootstrap-sass-rails'
 
 #gem 'anjlab-bootstrap-rails', :require => 'bootstrap-rails',
 #                             :github => 'anjlab/bootstrap-rails'
