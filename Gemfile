@@ -36,6 +36,8 @@ end
 
 gem 'twitter-bootstrap-rails', git: 'git://github.com/seyhunak/twitter-bootstrap-rails.git', branch: 'bootstrap3'
 
+gem 'rails_12factor', group: :production
+
 #gem 'anjlab-bootstrap-rails', :require => 'bootstrap-rails',
 #                             :github => 'anjlab/bootstrap-rails'
 
