@@ -34,6 +34,7 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+gem 'twitter-bootstrap-rails', git: 'git://github.com/seyhunak/twitter-bootstrap-rails.git', branch: 'bootstrap3'
 
 #gem 'anjlab-bootstrap-rails', :require => 'bootstrap-rails',
 #                             :github => 'anjlab/bootstrap-rails'
